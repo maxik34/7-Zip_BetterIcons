@@ -6,9 +6,8 @@ My reimagining of [7-Zip](https://www.7-zip.org/) icons.
 
 <img src="Program/SVG/Main.svg" width="64" alt="Main Icon"/> <img src="Program/SVG/SFXArchive.svg" width="64" alt="SFX Icon"/> <img src="Program/SVG/Console.svg" width="64" alt="Console Icon"/> <img src="Program/SVG/SFXConsole.svg" width="64" alt="SFX Console Icon"/> <img src="Program/SVG/Installer.svg" width="64" alt="Installer Icon"/> <img src="Program/SVG/Uninstaller.svg" width="64" alt="Uninstaller Icon"/>
 
-## Unified icon
-> [!NOTE]
-> Make It
+## Unified Icon (for all Arcives)
+<img src="Program/SVG/Unified.svg" width="64" alt="Unified Icon"/>
 
 ## Windows XP Style Icons
 > [!NOTE]
